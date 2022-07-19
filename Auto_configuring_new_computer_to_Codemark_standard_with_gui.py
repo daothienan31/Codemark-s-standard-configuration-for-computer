@@ -3,7 +3,6 @@
 # Author: An Thien Dao (Andy)
 # Co-Author:
 # Beginning date: July 4th, 2022
-# Modified date: July 5th, 2022
 
 import pyautogui, sys
 import cv2 as cv
